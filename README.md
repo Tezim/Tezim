@@ -17,7 +17,7 @@
   
 </p>
 <p align="center">
- 🎓 First year Ing. student at FEI • Slovenská technická univerzita
+ 🎓 Second year Ing. student at FEI • Slovenská technická univerzita
 </p>
 <p align="center">
  💻 Computer science
