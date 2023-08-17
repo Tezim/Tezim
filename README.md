@@ -29,15 +29,15 @@
 
 <div align="center">
   <a href="">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tezim&theme=gruvbox" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tezim&theme=dracula" />
   </a>
   <a href="https://github.com/Tezim/">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezim&layout=compact&theme=gruvbox&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezim&layout=compact&theme=material-palenight&hide_border=true" />
   </a>
 </div>
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezim&theme=gruvbox)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezim&theme=dracula)
 </div>
 
 
