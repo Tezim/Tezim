@@ -28,13 +28,18 @@
 <br/><br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tezim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=rose_pine" />
+  <a href="">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tezim&theme=gruvbox" />
   </a>
   <a href="https://github.com/Tezim/">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezim&layout=compact&theme=rose_pine&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tezim&layout=compact&theme=gruvbox&hide_border=true" />
   </a>
 </div>
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tezim&theme=gruvbox)
+</div>
+
 
 -----
 
