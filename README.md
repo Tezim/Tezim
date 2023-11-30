@@ -51,6 +51,7 @@
 |:-------------| 
 | <a href="https://github.com/Tezim/AoC_2021"> AOC 2021</a> | 
 | <a href="https://github.com/Tezim/AOC_2022"> AOC 2022</a> |
+| <a href="https://github.com/Tezim/AoC_23"> AOC 2023</a> |
 | More coming soon...|
 
 </div>
